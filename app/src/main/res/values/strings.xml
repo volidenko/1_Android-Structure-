@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello World</string>
+    <string name="android_forever">Android Forever</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_hello_world">Show Hello World</string>
+    <string name="action_android_forever">Show Android Forever</string>
+    <string name="click_me">Click ME</string>
+</resources>
